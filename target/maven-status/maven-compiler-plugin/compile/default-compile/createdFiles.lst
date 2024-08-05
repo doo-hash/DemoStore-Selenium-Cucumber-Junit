@@ -1,0 +1,12 @@
+org\demoStore\pages\OrderSuccessPage.class
+org\demoStore\pages\SearchProductPage.class
+org\demoStore\pages\PrintOrderPage.class
+org\demoStore\pages\ProductPage.class
+org\demoStore\pages\CustomerPage.class
+org\demoStore\pages\LogoutSuccessPage.class
+org\demoStore\pages\HomePage.class
+org\demoStore\pages\OrderDetailsReceiptPage.class
+org\demoStore\pages\CreateAccountPage.class
+org\demoStore\pages\CheckoutPage.class
+org\demoStore\pages\LoginPage.class
+org\demoStore\utilities\HighlightElementClass.class

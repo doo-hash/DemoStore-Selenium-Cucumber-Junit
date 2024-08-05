@@ -1,0 +1,217 @@
+[INFO ] 2024-08-04 19:06:51.511 [main] DemoStoreJunit - Scenario execution started
+[INFO ] 2024-08-04 19:07:03.663 [main] DemoStoreJunit - Opens the application
+[INFO ] 2024-08-04 19:07:06.797 [main] DemoStoreJunit - https://magento.softwaretestingboard.com/customer/account/login/referer/aHR0cHM6Ly9tYWdlbnRvLnNvZnR3YXJldGVzdGluZ2JvYXJkLmNvbS8%2C/
+[TRACE] 2024-08-04 19:07:06.797 [main] DemoStoreJunit - Navigated to login page
+[INFO ] 2024-08-04 19:07:09.387 [main] DemoStoreJunit - Successfull login
+[TRACE] 2024-08-04 19:07:10.694 [main] DemoStoreJunit - Welcome Message: Welcome, John Drew!
+[INFO ] 2024-08-04 19:07:11.693 [main] DemoStoreJunit - Captured screenshot for step: User buys a product
+[TRACE] 2024-08-04 19:07:11.711 [main] DemoStoreJunit - Redirected to home page
+[INFO ] 2024-08-04 19:07:12.577 [main] DemoStoreJunit - Captured screenshot for step: User buys a product
+[TRACE] 2024-08-04 19:07:14.596 [main] DemoStoreJunit - product name entered in search box: Selene Yoga Hoodie
+[TRACE] 2024-08-04 19:07:16.130 [main] DemoStoreJunit - Searched product found: Selene Yoga Hoodie
+[INFO ] 2024-08-04 19:07:16.685 [main] DemoStoreJunit - Captured screenshot for step: User buys a product
+[TRACE] 2024-08-04 19:07:16.877 [main] DemoStoreJunit - Selected color and Size
+[INFO ] 2024-08-04 19:07:17.418 [main] DemoStoreJunit - Captured screenshot for step: User buys a product
+[TRACE] 2024-08-04 19:07:17.573 [main] DemoStoreJunit - Clicked add to cart
+[TRACE] 2024-08-04 19:07:19.717 [main] DemoStoreJunit - Alert and cart count status is updated
+[TRACE] 2024-08-04 19:07:19.781 [main] DemoStoreJunit - Cart button clicked to proceed checkout
+[INFO ] 2024-08-04 19:07:23.724 [main] DemoStoreJunit - Captured screenshot for step: User buys a product
+[TRACE] 2024-08-04 19:07:25.401 [main] DemoStoreJunit - Checkout button is clicked
+[INFO ] 2024-08-04 19:07:25.471 [main] DemoStoreJunit - https://magento.softwaretestingboard.com/checkout/
+[INFO ] 2024-08-04 19:07:25.680 [main] DemoStoreJunit - https://magento.softwaretestingboard.com/checkout/
+[INFO ] 2024-08-04 19:07:25.970 [main] DemoStoreJunit - Captured screenshot for step: User buys a product
+[TRACE] 2024-08-04 19:07:32.396 [main] DemoStoreJunit - Checked prdouct details and billing address
+[INFO ] 2024-08-04 19:07:32.421 [main] DemoStoreJunit - https://magento.softwaretestingboard.com/checkout/#shipping
+[TRACE] 2024-08-04 19:07:34.725 [main] DemoStoreJunit - Selected billing address
+[INFO ] 2024-08-04 19:07:35.093 [main] DemoStoreJunit - Captured screenshot for step: User buys a product
+[TRACE] 2024-08-04 19:07:37.335 [main] DemoStoreJunit - Clicked place order button
+[INFO ] 2024-08-04 19:07:37.335 [main] DemoStoreJunit - https://magento.softwaretestingboard.com/checkout/#payment
+[INFO ] 2024-08-04 19:07:37.351 [main] DemoStoreJunit - https://magento.softwaretestingboard.com/checkout/#payment
+[INFO ] 2024-08-04 19:07:37.682 [main] DemoStoreJunit - Captured screenshot for step: User buys a product
+[TRACE] 2024-08-04 19:07:41.194 [main] DemoStoreJunit - order number is: 000013220
+[TRACE] 2024-08-04 19:07:42.868 [main] DemoStoreJunit - Clicked order number link
+[INFO ] 2024-08-04 19:07:43.043 [main] DemoStoreJunit - https://magento.softwaretestingboard.com/sales/order/view/order_id/13215/
+[TRACE] 2024-08-04 19:07:43.161 [main] DemoStoreJunit - Checked order details
+[INFO ] 2024-08-04 19:07:43.526 [main] DemoStoreJunit - Captured screenshot for step: User buys a product
+[TRACE] 2024-08-04 19:07:45.096 [main] DemoStoreJunit - Clicked logout button
+[INFO ] 2024-08-04 19:07:45.105 [main] DemoStoreJunit - https://magento.softwaretestingboard.com/customer/account/logoutSuccess/
+[TRACE] 2024-08-04 19:07:45.121 [main] DemoStoreJunit - logout successful
+[INFO ] 2024-08-04 19:07:45.545 [main] DemoStoreJunit - Captured screenshot for step: User buys a product
+[INFO ] 2024-08-04 19:07:45.551 [main] DemoStoreJunit - Scenario execution over
+[INFO ] 2024-08-04 19:07:55.336 [main] DemoStoreJunit - Scenario execution started
+[INFO ] 2024-08-04 19:08:07.901 [main] DemoStoreJunit - Opens the application
+[TRACE] 2024-08-04 19:08:09.218 [main] DemoStoreJunit - Login URL: https://magento.softwaretestingboard.com/customer/account/login/referer/aHR0cHM6Ly9tYWdlbnRvLnNvZnR3YXJldGVzdGluZ2JvYXJkLmNvbS8%2C/
+[TRACE] 2024-08-04 19:08:09.218 [main] DemoStoreJunit - Navigated to login page
+[INFO ] 2024-08-04 19:08:09.959 [main] DemoStoreJunit - Captured screenshot for step: User logins with valid credentials
+[TRACE] 2024-08-04 19:08:10.095 [main] DemoStoreJunit - Email entered: johnDrew@test.com
+[INFO ] 2024-08-04 19:08:16.272 [main] DemoStoreJunit - Captured screenshot for step: User logins with valid credentials
+[TRACE] 2024-08-04 19:08:16.391 [main] DemoStoreJunit - Password entered: Password123
+[INFO ] 2024-08-04 19:08:16.712 [main] DemoStoreJunit - Captured screenshot for step: User logins with valid credentials
+[TRACE] 2024-08-04 19:08:18.822 [main] DemoStoreJunit - Clicked login button
+[INFO ] 2024-08-04 19:08:21.280 [main] DemoStoreJunit - Captured screenshot for step: User logins with valid credentials
+[TRACE] 2024-08-04 19:08:21.280 [main] DemoStoreJunit - Redirected to home page
+[INFO ] 2024-08-04 19:08:22.101 [main] DemoStoreJunit - Captured screenshot for step: User logins with valid credentials
+[TRACE] 2024-08-04 19:08:22.173 [main] DemoStoreJunit - Logged in Username: John Drew
+[INFO ] 2024-08-04 19:08:23.031 [main] DemoStoreJunit - Captured screenshot for step: User logins with valid credentials
+[INFO ] 2024-08-04 19:08:23.031 [main] DemoStoreJunit - Scenario execution over
+[INFO ] 2024-08-04 19:08:28.627 [main] DemoStoreJunit - Scenario execution started
+[INFO ] 2024-08-04 19:08:41.156 [main] DemoStoreJunit - Opens the application
+[TRACE] 2024-08-04 19:08:45.661 [main] DemoStoreJunit - Login URL: https://magento.softwaretestingboard.com/customer/account/login/referer/aHR0cHM6Ly9tYWdlbnRvLnNvZnR3YXJldGVzdGluZ2JvYXJkLmNvbS8%2C/
+[TRACE] 2024-08-04 19:08:45.661 [main] DemoStoreJunit - Navigated to login page
+[INFO ] 2024-08-04 19:08:47.515 [main] DemoStoreJunit - Captured screenshot for step: User logins with invalid credentials
+[TRACE] 2024-08-04 19:08:47.628 [main] DemoStoreJunit - Email entered: feary@waq.com
+[INFO ] 2024-08-04 19:08:49.224 [main] DemoStoreJunit - Captured screenshot for step: User logins with invalid credentials
+[TRACE] 2024-08-04 19:08:49.326 [main] DemoStoreJunit - Password entered: Password123
+[INFO ] 2024-08-04 19:08:49.621 [main] DemoStoreJunit - Captured screenshot for step: User logins with invalid credentials
+[TRACE] 2024-08-04 19:08:51.033 [main] DemoStoreJunit - Clicked login button
+[INFO ] 2024-08-04 19:08:52.546 [main] DemoStoreJunit - Captured screenshot for step: User logins with invalid credentials
+[WARN ] 2024-08-04 19:08:52.614 [main] DemoStoreJunit - warning message not found
+[INFO ] 2024-08-04 19:08:52.920 [main] DemoStoreJunit - Captured screenshot for step: User logins with invalid credentials
+[INFO ] 2024-08-04 19:08:52.920 [main] DemoStoreJunit - Scenario execution over
+[INFO ] 2024-08-04 19:08:56.606 [main] DemoStoreJunit - Scenario execution started
+[INFO ] 2024-08-04 19:09:09.557 [main] DemoStoreJunit - Opens the application
+[TRACE] 2024-08-04 19:09:12.919 [main] DemoStoreJunit - Login URL: https://magento.softwaretestingboard.com/customer/account/login/referer/aHR0cHM6Ly9tYWdlbnRvLnNvZnR3YXJldGVzdGluZ2JvYXJkLmNvbS8%2C/
+[TRACE] 2024-08-04 19:09:12.920 [main] DemoStoreJunit - Navigated to login page
+[INFO ] 2024-08-04 19:09:13.227 [main] DemoStoreJunit - Captured screenshot for step: User logins with invalid credentials
+[TRACE] 2024-08-04 19:09:13.334 [main] DemoStoreJunit - Email entered: johnDrew@test.com
+[INFO ] 2024-08-04 19:09:13.943 [main] DemoStoreJunit - Captured screenshot for step: User logins with invalid credentials
+[TRACE] 2024-08-04 19:09:14.030 [main] DemoStoreJunit - Password entered: wpasswed
+[INFO ] 2024-08-04 19:09:14.313 [main] DemoStoreJunit - Captured screenshot for step: User logins with invalid credentials
+[TRACE] 2024-08-04 19:09:15.888 [main] DemoStoreJunit - Clicked login button
+[INFO ] 2024-08-04 19:09:16.224 [main] DemoStoreJunit - Captured screenshot for step: User logins with invalid credentials
+[WARN ] 2024-08-04 19:09:16.286 [main] DemoStoreJunit - warning message not found
+[INFO ] 2024-08-04 19:09:16.576 [main] DemoStoreJunit - Captured screenshot for step: User logins with invalid credentials
+[INFO ] 2024-08-04 19:09:16.576 [main] DemoStoreJunit - Scenario execution over
+[INFO ] 2024-08-04 19:09:21.879 [main] DemoStoreJunit - Scenario execution started
+[INFO ] 2024-08-04 19:09:32.343 [main] DemoStoreJunit - Opens the application
+[TRACE] 2024-08-04 19:09:36.445 [main] DemoStoreJunit - Login URL: https://magento.softwaretestingboard.com/customer/account/login/referer/aHR0cHM6Ly9tYWdlbnRvLnNvZnR3YXJldGVzdGluZ2JvYXJkLmNvbS8%2C/
+[TRACE] 2024-08-04 19:09:36.445 [main] DemoStoreJunit - Navigated to login page
+[INFO ] 2024-08-04 19:09:36.750 [main] DemoStoreJunit - Captured screenshot for step: User logins with invalid credentials
+[TRACE] 2024-08-04 19:09:36.858 [main] DemoStoreJunit - Email entered: johndrewos@test.com
+[INFO ] 2024-08-04 19:09:38.029 [main] DemoStoreJunit - Captured screenshot for step: User logins with invalid credentials
+[TRACE] 2024-08-04 19:09:38.118 [main] DemoStoreJunit - Password entered: wpasswed
+[INFO ] 2024-08-04 19:09:38.423 [main] DemoStoreJunit - Captured screenshot for step: User logins with invalid credentials
+[TRACE] 2024-08-04 19:09:39.891 [main] DemoStoreJunit - Clicked login button
+[INFO ] 2024-08-04 19:09:40.335 [main] DemoStoreJunit - Captured screenshot for step: User logins with invalid credentials
+[WARN ] 2024-08-04 19:09:40.404 [main] DemoStoreJunit - warning message not found
+[INFO ] 2024-08-04 19:09:40.735 [main] DemoStoreJunit - Captured screenshot for step: User logins with invalid credentials
+[INFO ] 2024-08-04 19:09:40.735 [main] DemoStoreJunit - Scenario execution over
+[INFO ] 2024-08-04 19:09:47.307 [main] DemoStoreJunit - Scenario execution started
+[INFO ] 2024-08-04 19:09:57.771 [main] DemoStoreJunit - Opens the application
+[TRACE] 2024-08-04 19:10:01.768 [main] DemoStoreJunit - Login URL: https://magento.softwaretestingboard.com/customer/account/login/referer/aHR0cHM6Ly9tYWdlbnRvLnNvZnR3YXJldGVzdGluZ2JvYXJkLmNvbS8%2C/
+[TRACE] 2024-08-04 19:10:01.768 [main] DemoStoreJunit - Navigated to login page
+[INFO ] 2024-08-04 19:10:02.652 [main] DemoStoreJunit - Captured screenshot for step: User logins with invalid credentials
+[TRACE] 2024-08-04 19:10:02.750 [main] DemoStoreJunit - Email entered: john_@@test.com
+[INFO ] 2024-08-04 19:10:04.350 [main] DemoStoreJunit - Captured screenshot for step: User logins with invalid credentials
+[TRACE] 2024-08-04 19:10:04.450 [main] DemoStoreJunit - Password entered: wpa@!swed
+[INFO ] 2024-08-04 19:10:04.766 [main] DemoStoreJunit - Captured screenshot for step: User logins with invalid credentials
+[TRACE] 2024-08-04 19:10:04.863 [main] DemoStoreJunit - Clicked login button
+[INFO ] 2024-08-04 19:10:05.166 [main] DemoStoreJunit - Captured screenshot for step: User logins with invalid credentials
+[TRACE] 2024-08-04 19:10:05.220 [main] DemoStoreJunit - Warning message recieved
+[INFO ] 2024-08-04 19:10:05.617 [main] DemoStoreJunit - Captured screenshot for step: User logins with invalid credentials
+[INFO ] 2024-08-04 19:10:05.617 [main] DemoStoreJunit - Scenario execution over
+[INFO ] 2024-08-04 19:10:11.816 [main] DemoStoreJunit - Scenario execution started
+[INFO ] 2024-08-04 19:10:22.575 [main] DemoStoreJunit - Opens the application
+[TRACE] 2024-08-04 19:10:26.767 [main] DemoStoreJunit - Login URL: https://magento.softwaretestingboard.com/customer/account/login/referer/aHR0cHM6Ly9tYWdlbnRvLnNvZnR3YXJldGVzdGluZ2JvYXJkLmNvbS8%2C/
+[TRACE] 2024-08-04 19:10:26.767 [main] DemoStoreJunit - Navigated to login page
+[INFO ] 2024-08-04 19:10:27.763 [main] DemoStoreJunit - Captured screenshot for step: User logins with empty credentials
+[TRACE] 2024-08-04 19:10:27.988 [main] DemoStoreJunit - Entered empty credentials
+[INFO ] 2024-08-04 19:10:30.498 [main] DemoStoreJunit - Captured screenshot for step: User logins with empty credentials
+[TRACE] 2024-08-04 19:10:30.657 [main] DemoStoreJunit - Clicked login button
+[INFO ] 2024-08-04 19:10:30.954 [main] DemoStoreJunit - Captured screenshot for step: User logins with empty credentials
+[TRACE] 2024-08-04 19:10:31.005 [main] DemoStoreJunit - email warning message: This is a required field.
+[INFO ] 2024-08-04 19:10:31.312 [main] DemoStoreJunit - Captured screenshot for step: User logins with empty credentials
+[TRACE] 2024-08-04 19:10:31.354 [main] DemoStoreJunit - password warning message: This is a required field.
+[INFO ] 2024-08-04 19:10:31.672 [main] DemoStoreJunit - Captured screenshot for step: User logins with empty credentials
+[INFO ] 2024-08-04 19:10:31.672 [main] DemoStoreJunit - Scenario execution over
+[INFO ] 2024-08-04 19:10:38.007 [main] DemoStoreJunit - Scenario execution started
+[INFO ] 2024-08-04 19:10:50.120 [main] DemoStoreJunit - Opens the application
+[TRACE] 2024-08-04 19:10:53.795 [main] DemoStoreJunit - Create account button clicked
+[INFO ] 2024-08-04 19:10:53.803 [main] DemoStoreJunit - https://magento.softwaretestingboard.com/customer/account/create/
+[TRACE] 2024-08-04 19:10:53.803 [main] DemoStoreJunit - Create account page opened
+[INFO ] 2024-08-04 19:10:54.299 [main] DemoStoreJunit - Captured screenshot for step: User registers with all fields
+[TRACE] 2024-08-04 19:10:54.423 [main] DemoStoreJunit - First name entered
+[INFO ] 2024-08-04 19:10:56.046 [main] DemoStoreJunit - Captured screenshot for step: User registers with all fields
+[TRACE] 2024-08-04 19:10:56.116 [main] DemoStoreJunit - Last name entered
+[INFO ] 2024-08-04 19:10:56.464 [main] DemoStoreJunit - Captured screenshot for step: User registers with all fields
+[TRACE] 2024-08-04 19:10:56.574 [main] DemoStoreJunit - Random email entered
+[INFO ] 2024-08-04 19:10:56.898 [main] DemoStoreJunit - Captured screenshot for step: User registers with all fields
+[TRACE] 2024-08-04 19:10:57.029 [main] DemoStoreJunit - Password entered
+[INFO ] 2024-08-04 19:10:58.300 [main] DemoStoreJunit - Captured screenshot for step: User registers with all fields
+[TRACE] 2024-08-04 19:10:58.398 [main] DemoStoreJunit - Confirm password entered
+[INFO ] 2024-08-04 19:10:58.710 [main] DemoStoreJunit - Captured screenshot for step: User registers with all fields
+[TRACE] 2024-08-04 19:11:06.275 [main] DemoStoreJunit - Creat account button clicked
+[INFO ] 2024-08-04 19:11:06.946 [main] DemoStoreJunit - Captured screenshot for step: User registers with all fields
+[INFO ] 2024-08-04 19:11:07.048 [main] DemoStoreJunit - https://magento.softwaretestingboard.com/customer/account/
+[TRACE] 2024-08-04 19:11:07.048 [main] DemoStoreJunit - Navigated to customer page
+[INFO ] 2024-08-04 19:11:07.382 [main] DemoStoreJunit - Captured screenshot for step: User registers with all fields
+[TRACE] 2024-08-04 19:11:07.483 [main] DemoStoreJunit - Username is visible
+[INFO ] 2024-08-04 19:11:07.789 [main] DemoStoreJunit - Captured screenshot for step: User registers with all fields
+[INFO ] 2024-08-04 19:11:07.789 [main] DemoStoreJunit - Scenario execution over
+[INFO ] 2024-08-04 19:11:13.288 [main] DemoStoreJunit - Scenario execution started
+[INFO ] 2024-08-04 19:11:44.351 [main] DemoStoreJunit - screenshot captured
+[DEBUG] 2024-08-04 19:11:44.351 [main] DemoStoreJunit - Captured screenshot for failed scenario: User registers with invalid data
+[INFO ] 2024-08-04 19:11:44.351 [main] DemoStoreJunit - Scenario execution over
+[INFO ] 2024-08-04 19:11:47.232 [main] DemoStoreJunit - Scenario execution started
+[INFO ] 2024-08-04 19:11:56.479 [main] DemoStoreJunit - Opens the application
+[TRACE] 2024-08-04 19:12:01.563 [main] DemoStoreJunit - Create account button clicked
+[INFO ] 2024-08-04 19:12:01.573 [main] DemoStoreJunit - https://magento.softwaretestingboard.com/customer/account/create/
+[TRACE] 2024-08-04 19:12:01.573 [main] DemoStoreJunit - Create account page opened
+[INFO ] 2024-08-04 19:12:01.882 [main] DemoStoreJunit - Captured screenshot for step: User registers with invalid data
+[TRACE] 2024-08-04 19:12:01.991 [main] DemoStoreJunit - First name entered
+[INFO ] 2024-08-04 19:12:02.395 [main] DemoStoreJunit - Captured screenshot for step: User registers with invalid data
+[TRACE] 2024-08-04 19:12:02.484 [main] DemoStoreJunit - Last name entered
+[INFO ] 2024-08-04 19:12:02.771 [main] DemoStoreJunit - Captured screenshot for step: User registers with invalid data
+[TRACE] 2024-08-04 19:12:02.870 [main] DemoStoreJunit - Email entered
+[INFO ] 2024-08-04 19:12:03.153 [main] DemoStoreJunit - Captured screenshot for step: User registers with invalid data
+[TRACE] 2024-08-04 19:12:03.414 [main] DemoStoreJunit - Password entered
+[INFO ] 2024-08-04 19:12:03.708 [main] DemoStoreJunit - Captured screenshot for step: User registers with invalid data
+[TRACE] 2024-08-04 19:12:03.792 [main] DemoStoreJunit - Confirm password entered
+[INFO ] 2024-08-04 19:12:04.085 [main] DemoStoreJunit - Captured screenshot for step: User registers with invalid data
+[TRACE] 2024-08-04 19:12:04.181 [main] DemoStoreJunit - Creat account button clicked
+[INFO ] 2024-08-04 19:12:04.548 [main] DemoStoreJunit - Captured screenshot for step: User registers with invalid data
+[TRACE] 2024-08-04 19:12:04.690 [main] DemoStoreJunit - Warning message recieved
+[INFO ] 2024-08-04 19:12:04.984 [main] DemoStoreJunit - Captured screenshot for step: User registers with invalid data
+[INFO ] 2024-08-04 19:12:04.985 [main] DemoStoreJunit - Scenario execution over
+[INFO ] 2024-08-04 19:12:09.309 [main] DemoStoreJunit - Scenario execution started
+[INFO ] 2024-08-04 19:12:25.408 [main] DemoStoreJunit - Opens the application
+[TRACE] 2024-08-04 19:12:28.872 [main] DemoStoreJunit - Create account button clicked
+[INFO ] 2024-08-04 19:12:28.892 [main] DemoStoreJunit - https://magento.softwaretestingboard.com/customer/account/create/
+[TRACE] 2024-08-04 19:12:28.893 [main] DemoStoreJunit - Create account page opened
+[INFO ] 2024-08-04 19:12:29.197 [main] DemoStoreJunit - Captured screenshot for step: User registers with empty credentials
+[TRACE] 2024-08-04 19:12:29.572 [main] DemoStoreJunit - Empty credentials
+[INFO ] 2024-08-04 19:12:31.012 [main] DemoStoreJunit - Captured screenshot for step: User registers with empty credentials
+[TRACE] 2024-08-04 19:12:31.120 [main] DemoStoreJunit - Creat account button clicked
+[INFO ] 2024-08-04 19:12:31.426 [main] DemoStoreJunit - Captured screenshot for step: User registers with empty credentials
+[TRACE] 2024-08-04 19:12:31.472 [main] DemoStoreJunit - First name warning message is visible
+[INFO ] 2024-08-04 19:12:31.757 [main] DemoStoreJunit - Captured screenshot for step: User registers with empty credentials
+[TRACE] 2024-08-04 19:12:31.807 [main] DemoStoreJunit - Last name warning message is visible
+[INFO ] 2024-08-04 19:12:32.096 [main] DemoStoreJunit - Captured screenshot for step: User registers with empty credentials
+[TRACE] 2024-08-04 19:12:32.145 [main] DemoStoreJunit - Email warning message is visible
+[INFO ] 2024-08-04 19:12:32.459 [main] DemoStoreJunit - Captured screenshot for step: User registers with empty credentials
+[TRACE] 2024-08-04 19:12:32.552 [main] DemoStoreJunit - Password warning message is visible
+[INFO ] 2024-08-04 19:12:32.838 [main] DemoStoreJunit - Captured screenshot for step: User registers with empty credentials
+[INFO ] 2024-08-04 19:12:32.838 [main] DemoStoreJunit - Scenario execution over
+[INFO ] 2024-08-04 19:12:36.218 [main] DemoStoreJunit - Scenario execution started
+[INFO ] 2024-08-04 19:12:47.296 [main] DemoStoreJunit - Opens the application
+[INFO ] 2024-08-04 19:12:51.829 [main] DemoStoreJunit - https://magento.softwaretestingboard.com/customer/account/login/referer/aHR0cHM6Ly9tYWdlbnRvLnNvZnR3YXJldGVzdGluZ2JvYXJkLmNvbS8%2C/
+[TRACE] 2024-08-04 19:12:51.829 [main] DemoStoreJunit - Navigated to login page
+[INFO ] 2024-08-04 19:12:53.862 [main] DemoStoreJunit - Successfull login
+[TRACE] 2024-08-04 19:12:55.494 [main] DemoStoreJunit - Welcome Message: Welcome, John Drew!
+[INFO ] 2024-08-04 19:12:56.249 [main] DemoStoreJunit - Captured screenshot for step: User searches a product
+[TRACE] 2024-08-04 19:12:56.264 [main] DemoStoreJunit - Redirected to home page
+[INFO ] 2024-08-04 19:12:57.011 [main] DemoStoreJunit - Captured screenshot for step: User searches a product
+[TRACE] 2024-08-04 19:12:58.308 [main] DemoStoreJunit - Entered product name in search box: Selene Yoga Hoodie
+[INFO ] 2024-08-04 19:12:59.593 [main] DemoStoreJunit - Captured screenshot for step: User searches a product
+[TRACE] 2024-08-04 19:13:00.214 [main] DemoStoreJunit - Searched product - Selene Yoga Hoodie found
+[INFO ] 2024-08-04 19:13:00.698 [main] DemoStoreJunit - Captured screenshot for step: User searches a product
+[INFO ] 2024-08-04 19:13:05.462 [main] DemoStoreJunit - https://magento.softwaretestingboard.com/selene-yoga-hoodie.html
+[TRACE] 2024-08-04 19:13:05.462 [main] DemoStoreJunit - Clicked product link and was navigated to product page
+[INFO ] 2024-08-04 19:13:05.869 [main] DemoStoreJunit - Captured screenshot for step: User searches a product
+[TRACE] 2024-08-04 19:13:05.931 [main] DemoStoreJunit - Product found : Selene Yoga Hoodie
+[INFO ] 2024-08-04 19:13:06.289 [main] DemoStoreJunit - Captured screenshot for step: User searches a product
+[TRACE] 2024-08-04 19:13:07.684 [main] DemoStoreJunit - Clicked logout button
+[INFO ] 2024-08-04 19:13:07.767 [main] DemoStoreJunit - https://magento.softwaretestingboard.com/customer/account/logoutSuccess/
+[INFO ] 2024-08-04 19:13:07.807 [main] DemoStoreJunit - logout successful
+[INFO ] 2024-08-04 19:13:08.139 [main] DemoStoreJunit - Captured screenshot for step: User searches a product
+[INFO ] 2024-08-04 19:13:08.139 [main] DemoStoreJunit - Scenario execution over

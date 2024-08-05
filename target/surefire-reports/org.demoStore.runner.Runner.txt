@@ -1,0 +1,26 @@
+-------------------------------------------------------------------------------
+Test set: org.demoStore.runner.Runner
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 385.0 s <<< FAILURE! -- in org.demoStore.runner.Runner
+User creates an account in demo store application.User registers with invalid data #1 -- Time elapsed: 35.35 s <<< ERROR!
+org.openqa.selenium.TimeoutException: 
+timeout: Timed out receiving message from renderer: 22.053
+  (Session info: MicrosoftEdge=127.0.2651.86)
+Build info: version: '4.22.0', revision: 'c5f3146703*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [427c5c2a6f217548020fff073001b589, get {url=https://magento.softwaretestingboard.com/}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 127.0.2651.86, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:49528}, msedge: {msedgedriverVersion: 127.0.2651.86 (ac31d8b82969..., userDataDir: C:\Users\admin\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49528/devtoo..., se:cdpVersion: 127.0.2651.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 427c5c2a6f217548020fff073001b589
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:300)
+	at org.demoStore.hooks.AllHooks.urlSetup(AllHooks.java:58)
+
